@@ -98,4 +98,4 @@ You can easily customize:
 
 ## 📄 License
 
-This project is licensed under the [GNU GPL v3.0 License](License.md).
+This project is licensed under the [GNU GPL v3.0 License](https://github.com/GeorgeKonstanto/Eshop-Simple-one/blob/main/LICENSE).
